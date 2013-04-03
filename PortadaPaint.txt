@@ -1,0 +1,5 @@
+Este es un ejemplo de una portada escrita desde
+Paint.
+
+La imagen fue subida en un branch paralelo al branch actual.
+El branch se llama PortadaPaint

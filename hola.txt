@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 hice un cambioo pro =D
+=======
+asdfjsalfksdjaflksa
+
+
+
+
+Esteban hizo un cambio
+>>>>>>> PortadaPaint

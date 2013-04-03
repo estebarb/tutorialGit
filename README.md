@@ -1,5 +1,7 @@
-Tutorial de GIT
+Tutorial de GIT + PortadaPaint
 ================
+
+Este proyecto tiene una portada en Paint. Ya puede conquistar el mundo.
 
 Hola Mundo
 

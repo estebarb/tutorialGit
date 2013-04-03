@@ -4,4 +4,7 @@
 void main(){
 	//TODO: Agregar un 
 	//Comentario agregado por Pablo =D
+
+	printf("Hola Mundo");
+	return;
 }
